@@ -1,9 +1,9 @@
 # Management Repo for Car-Rental
-##Table of Contents
+## Table of Contents
 
 - [Description](#description)
 
-##Description
+## Description
 
 This Repository holds documentation of the Car-Rental as well as the defined [Conventions](https://github.com/asys1920/management/blob/master/conventions.md).
 
